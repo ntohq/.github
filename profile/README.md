@@ -1,5 +1,5 @@
-<!-- [![ntohq's GitHub Banner](./images/code.jpg)](https://ntohqdevelopers.com) -->
-<div align="center">
+[![ntohq's GitHub Banner](./images/code.jpg)](https://ntohqdevelopers.com)
+<!-- <div align="center">
 	<br>
   <a href="https://github.com/ntohq" alt="ntohq-developers-github">
   <img src="./images/code.jpg">
@@ -10,7 +10,7 @@
   </h1>
 	<br>
 	</a>
-</div>
+</div> -->
 
 ## Hi there 👋
 ![GitHub followers](https://img.shields.io/github/followers/ntohq?&style=social)
