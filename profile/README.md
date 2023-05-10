@@ -1,5 +1,7 @@
+[![ntohq's GitHub Banner](./images/code.jpg)](https://ntohqdevelopers.com)
 ## Hi there 👋
-
+![GitHub followers](https://img.shields.io/github/followers/ntohq?&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fntohqdevelopers)
 <!--
 
 **Here are some ideas to get you started:**
