@@ -1,8 +1,8 @@
-[![ntohq's GitHub Banner](./images/code.jpg)](https://ntohqdevelopers.com)
-<!-- <div align="center">
+<!-- [![ntohq's GitHub Banner](https://github.com/ntohq/.github/blob/main/profile/images/code.jpg)(https://ntohqdevelopers.com) -->
+<div align="center">
 	<br>
   <a href="https://github.com/ntohq" alt="ntohq-developers-github">
-  <img src="./images/code.jpg">
+  <img src="https://github.com/ntohq/.github/blob/main/profile/images/code.jpg">
   <h1 style="color: white;">
     <a style="color: #8e33b5 !important;" href="https://github.com/ntohq">
       ntohq developers
@@ -10,7 +10,7 @@
   </h1>
 	<br>
 	</a>
-</div> -->
+</div>
 
 ## Hi there 👋
 ![GitHub followers](https://img.shields.io/github/followers/ntohq?&style=social)
