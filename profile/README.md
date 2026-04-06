@@ -1,28 +1,42 @@
-<!-- [![ntohq's GitHub Banner](https://github.com/ntohq/.github/blob/main/profile/images/code.jpg)(https://ntohqdevelopers.com) -->
 <div align="center">
-	<br>
-  <a href="https://github.com/ntohq" alt="ntohq-developers-github">
-  <img src="https://github.com/ntohq/.github/blob/main/profile/images/code.jpg">
-  <h1 style="color: white;">
-    <a style="color: #8e33b5 !important;" href="https://github.com/ntohq">
-      ntohq developers
-    </a>
-  </h1>
-	<br>
-	</a>
+  <br>
+  <img src="https://github.com/ntohq/.github/blob/main/profile/images/code.jpg" alt="ntohq banner">
+  <h1>ntohq Developers — Archived</h1>
+  <br>
 </div>
 
-## Hi there 👋
-![GitHub followers](https://img.shields.io/github/followers/ntohq?&style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fntohqdevelopers)
+## ⚠️ This Organization Has Reached End‑of‑Life
 
-Welcome to the ntohq's GitHub organization! We are a dedicated open-source community supporting students, newcomers, and enthusiasts in software engineering, graphic design, and web design. Join us to gain valuable experience, connect with like-minded individuals, and prepare for a successful career. Our community provides mentorship, guidance, and a platform for collaboration on exciting open-source projects. Whether you're looking to learn, contribute, or network, this is the perfect place to kick-start your journey in the world of technology and design. Join us today and let's build together!
-<!--
-**Here are some ideas to get you started:**
+The **ntohq** GitHub organization has officially been **sunset** and is no longer maintained.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+All active development, updates, and new projects have moved to our new home:
+
+👉 **https://github.com/wesdevprolabs**
+
+Please update your bookmarks, forks, and references to ensure you’re working with the latest versions of our tools and projects.
+
+---
+
+## 📦 What Happens Now?
+
+- Repositories here remain available **for historical reference**
+- No new issues, pull requests, or updates will be accepted
+- All future work continues under **wesdevpro labs**
+
+If you’re looking for the most current and actively maintained projects, you’ll find them in the new organization.
+
+---
+
+## 🙏 Thank You
+
+To everyone who contributed, collaborated, learned, experimented, or simply followed along — **thank you** for being a part of this organization.
+
+Your involvement helped shape this community and made the journey meaningful.
+
+This isn’t an ending — it’s a transition.  
+We’d love to have you with us as we continue building, exploring, and innovating at:
+
+👉 **wesdevpro labs**  
+https://github.com/wesdevprolabs
+
+---
